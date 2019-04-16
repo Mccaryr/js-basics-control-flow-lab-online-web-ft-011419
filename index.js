@@ -1,6 +1,6 @@
 function scuberGreetingForFeet(ride) {
 
-  if(ride <= 200) {
+  if(ride <= 400) {
     return "This one is on me"
   }
 }
