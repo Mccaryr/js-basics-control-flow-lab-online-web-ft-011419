@@ -4,4 +4,3 @@ function scuberGreetingForFeet(ride) {
     return "This one is on me"
   }
 }
-
